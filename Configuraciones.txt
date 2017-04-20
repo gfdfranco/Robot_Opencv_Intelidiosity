@@ -1,0 +1,16 @@
+H min: 122  
+H max:  249
+s min: 45
+s max: 252
+v min:83
+v max: 256
+
+ 
+
+Abajo 400 
+
+Arriba 115   
+
+derecha:  115   
+
+izquierda 530
